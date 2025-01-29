@@ -1,6 +1,6 @@
-#### Subfolder Automation Pipeline
+Subfolder Automation Pipeline
 
-##### Description
+Description
 
 This Python script automates the creation of subfolders in a specified destination directory. It is useful for organizing files systematically without manual folder creation.
 
